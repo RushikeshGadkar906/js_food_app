@@ -1,0 +1,15 @@
+{
+    "products": [{
+            "id": 1,
+            "pname": "Abc",
+            "price": 440,
+            "pimage": "https://images.theconversation.com/files/440609/original/file-20220113-25-gp1b39.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+        },
+        {
+            "id": 1,
+            "pname": "Abcd",
+            "price": 440,
+            "pimage": "https://images.unsplash.com/photo-1640340435016-1964cf4e723b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfE94eW50Sm9CREZZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        }
+    ]
+}

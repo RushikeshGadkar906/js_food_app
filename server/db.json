@@ -1,0 +1,15 @@
+{
+    "Food": [{
+            "id": 1,
+            "pname": "DISH 1",
+            "price": 440,
+            "image": "https://images.theconversation.com/files/440609/original/file-20220113-25-gp1b39.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+        },
+        {
+            "id": 2,
+            "pname": "DISH 2",
+            "price": 840,
+            "image": "https://images.theconversation.com/files/440609/original/file-20220113-25-gp1b39.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+        }
+    ]
+}
